@@ -1,1 +1,1 @@
-# TryDjango3
+# GetSmarter
